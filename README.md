@@ -10,8 +10,7 @@ The `/rtl` directory contains the Approx-T HDL source code, which includes:
   - `Approx_T`
   - `leading_one_detector`
   - `bit_mask_sel`
-- **Signed Integer Multiplication / Fixed-Point Multiplication**
-  - `Unsigned Integer Multiplication`
+
 - **Floating-Point Multiplication**
   - `Approx_T`
 
